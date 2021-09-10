@@ -10,5 +10,7 @@ This functionality can be acccessed from the contact page of the web application
 
 ### Flask setup and execution
 > set FLASK_APP=(filename)
+
 > set FLASK_ENV=development
+
 > flask run
