@@ -9,7 +9,7 @@ This functionality can be acccessed from the contact page of the web application
 > venv\Scripts\activate
 
 ### Flask setup and execution
-> set FLASK_APP=(filename)
+> set FLASK_APP=server.py
 
 > set FLASK_ENV=development
 
